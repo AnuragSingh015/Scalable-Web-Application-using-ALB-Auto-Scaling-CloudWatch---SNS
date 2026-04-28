@@ -34,7 +34,7 @@ Traffic was generated using **Apache Benchmark (`ab`)** from a **separate EC2 in
 
 When CPU utilization exceeds the defined threshold, the Auto Scaling Group launches additional EC2 instances.
 
-![Scale Out Email Notification](images/ScaleOut.png)
+![Scale Out Email Notification](ScaleOut.png)
 
 ---
 
@@ -42,7 +42,7 @@ When CPU utilization exceeds the defined threshold, the Auto Scaling Group launc
 
 When CPU utilization drops below the threshold, the Auto Scaling Group terminates unnecessary instances.
 
-![Scale In Email Notification](images/ScaleIn.png)
+![Scale In Email Notification](ScaleIn.png)
 
 ---
 
