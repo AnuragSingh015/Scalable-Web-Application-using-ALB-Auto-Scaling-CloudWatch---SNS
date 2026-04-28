@@ -12,7 +12,9 @@ Traffic was generated using **Apache Benchmark (`ab`)** from a **separate EC2 in
 
 ## Architecture
 
-![Architecture Diagram](images/SWA.png)
+![Architecture Diagram](SWA.png)
+
+
 
 ### Components
 
